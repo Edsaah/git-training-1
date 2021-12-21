@@ -1,0 +1,15 @@
+1. git clone <git repo/repository url>
+
+2. cd <repository folder>
+
+3. create your file or add content to exisiting files
+
+once you r done with your development
+
+4. git status
+
+5. git add .
+
+6. git commit -m "message"
+
+7. git push
